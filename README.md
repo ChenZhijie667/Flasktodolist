@@ -3,7 +3,7 @@
 
 # How to run and use  
 ## Run
-Open a terminal line in the file directory  
+Open a terminal in the file directory  
 activate virtual env:
 ```
 venv\scripts\activate
